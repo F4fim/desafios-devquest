@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+/* Tabela de Moda */
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+    color: #fff;
+    padding: 10px;
+}
+
+.produto-moda {
+    background-color: #424250;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Tabela de Moda */
+
+/* Tabela de Casa */
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+    color: #fff;
+    padding: 10px;
+}
+
+.produto-casa {
+    background-color: #424250;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Tabela de Casa */
+
+h1 {
+    text-decoration: underline;
+}
